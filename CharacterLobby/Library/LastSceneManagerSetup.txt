@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/SY/SY_BG.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
